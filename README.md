@@ -44,8 +44,8 @@ Para ejecutar la aplicación localmente, sigue estos pasos:
 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/adalid-cl/ESPECIALIZACION_FRONTEND_M6_AE2
-cd ESPECIALIZACION_FRONTEND_M6_AE2
+git clone https://github.com/Krpardo27/task-manager.git
+cd task-manager
 ```
 
 2. Instalar Dependencias
