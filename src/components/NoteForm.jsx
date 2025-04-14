@@ -41,6 +41,7 @@ const NoteForm = ({ addNote, editNote, noteToEdit, setNoteToEdit }) => {
 
   return (
     <div className="container my-4">
+      <div className='row justify-content-center'>
       <form onSubmit={handleSubmit} className="p-3 bg-secondary rounded">
         <div className="mb-2">
           <input
@@ -74,6 +75,7 @@ const NoteForm = ({ addNote, editNote, noteToEdit, setNoteToEdit }) => {
           )}
         </div>
       </form>
+      </div>
     </div>
   );
 };
