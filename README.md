@@ -70,9 +70,3 @@ Luego, abre tu navegador y accede a **`http://localhost:5173`**.
   - Cada nota se renderiza dentro de este componente.
 - `NotesList.jsx` - Listado de Notas
   - Administra la lista de notas dinámicamente.
-
-## Autores
-
-- [Brayan Diaz C](https://github.com/brayandiazc)
-
-Con ❤️ por [Adalid CL](https://github.com/adalid-cl) 😊
